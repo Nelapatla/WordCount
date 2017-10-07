@@ -35,7 +35,7 @@
                 <archive>
                 <manifest>
                     <mainClass>
-                         com.wordcount.MongoSampleClient
+                         com.word.count.MongoSampleClient
                     </mainClass>
                 </manifest>
                 </archive>
